@@ -1,4 +1,5 @@
-
+A programer by day,
+A bug maker by night 
 <!--
 **pycnonotus/pycnonotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
