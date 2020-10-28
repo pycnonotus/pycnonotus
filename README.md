@@ -1,5 +1,8 @@
 🤔 a README.md file hmmm....
-
+to do:
+ [ ] add to to do a to do thing to do so I can to do it and mark the to do in the to do as done
+ 
+ 
 <!--
 **pycnonotus/pycnonotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: idk, :( it was a bad joke and for Hebrew speaker only
-- ⚡ Fun fact: I can lick my elbow 
+-  
 -->
