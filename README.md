@@ -1,6 +1,6 @@
 🤔 a README.md file hmmm....
 to do:
-- [ ] add to to do a to do thing to do so I can to do it and mark the to do in the to do as done
+- [X] add to to do a to do thing to do so I can to do it and mark the to do in the to do as done
 - [X] Mark this
  
 <!--
