@@ -1,8 +1,5 @@
 🤔 a README.md file hmmm....
-to do:
-- [X] add to to do a to do thing to do so I can to do it and mark the to do in the to do as done
-- [X] Mark this
- 
+
 <!--
 **pycnonotus/pycnonotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
